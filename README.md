@@ -6,21 +6,30 @@ Technologies utilisées : PHP Vanilla / CSS / HTML / MySQL
 
 Premier projet PHP
 
-# Home
+## Home
 <img src= "https://user-images.githubusercontent.com/82309879/115147744-c8216800-a05c-11eb-8aae-2e7fea4edd64.png">
 
-# Ajouter une annonce
+## Ajouter une annonce
 <img src= "https://user-images.githubusercontent.com/82309879/115147809-23535a80-a05d-11eb-8cb7-aa0d0d6aacb2.png">
 
-# Inscription
+## Inscription
 <img src= "https://user-images.githubusercontent.com/82309879/115147754-d2dbfd00-a05c-11eb-97ba-237b01c7ee5a.png">
 
-# Connexion 
+## Connexion 
 <img src= "https://user-images.githubusercontent.com/82309879/115147757-d8394780-a05c-11eb-9f89-5265cf6cb397.png">
 
-
+## Les annonces 
 <img src= "https://user-images.githubusercontent.com/82309879/115147760-e0918280-a05c-11eb-8562-ebc8749dc44a.png">
 
+## Discriptif de l'annonce 
 <img src= "https://user-images.githubusercontent.com/82309879/115147765-e5eecd00-a05c-11eb-8e1f-3e56475fd828.png">
 
+## Enchère
 <img src= "https://user-images.githubusercontent.com/82309879/115147778-f606ac80-a05c-11eb-876e-20bf22b6bdd7.png">
+
+## Vue après saisie d'enchère
+
+<img src= "https://user-images.githubusercontent.com/82309879/115148387-978efd80-a05f-11eb-9de8-64d75c40aef9.png">
+
+<img src= "https://user-images.githubusercontent.com/82309879/115148380-9067ef80-a05f-11eb-9df0-565dfdb793d2.png">
+
